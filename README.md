@@ -9,7 +9,7 @@ INTRO\_SM (_second line of landing page_)
 PORTFOLIO\_TITLE  
 PORTFOLIO\_SUBTITLE
 
-The `contents` folder contains portfolio, team, about and 'client logos' images (*see [sample_content](/blob/master/Pelican-StartBootstrap-Agency/tree/master/sample_content) folder*).  
+The `contents` folder contains portfolio, team, about and 'client logos' images (*see [sample_content](/sample_content) folder*).  
 Each section (services, about, team, contact, clients' aside, etc) is a seperate include of the index template, making it easy to customize the order -- or removal -- of any section.
 
 
